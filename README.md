@@ -19,7 +19,7 @@ To run the "game", first clone the repository and initialise GazeTracking.
 ```
 git clone https://github.com/light655/Eye-tracking-game.git
 cd Eye-tracking-game
-git submodule update --remote
+git submodule update --init
 ```
 Then install the dependencies.
 ```
